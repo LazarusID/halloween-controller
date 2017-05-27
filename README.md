@@ -13,3 +13,9 @@ as part of the git repository:
   - Cosa, a microcontroller interface library similar to Wiring.  It was chosen
     over the more popular Wiring because it is easier to integrate into a
     test driven build.
+
+To update your dependencies:
+
+    git submodule init
+    git submodule update
+
